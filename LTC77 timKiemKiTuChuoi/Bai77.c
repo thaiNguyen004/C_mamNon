@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<string.h>
 int main() {
-	char s[50] = "titv.vn";
+	char s[50] = "nguyen.vn";
 	char* x2;
 	x2= strchr(s, '.');
 	printf("s: %s\n", s);
